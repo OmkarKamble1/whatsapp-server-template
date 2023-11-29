@@ -16,4 +16,4 @@ npm install
 3. Make changes according to your needs.
 4. Test it and use it !
 
-### Refer the documentation of whatsapp-web.js to customize the server according to your requirements
+### Refer the documentation of [whatsapp-web.js](https://docs.wwebjs.dev/) to customize the server according to your requirements
