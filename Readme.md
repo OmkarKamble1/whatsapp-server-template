@@ -7,7 +7,7 @@
 
 1. Clone the repository
 ```
-git clone https://github.com/whatsapp-server-template
+git clone https://github.com/OmkarKamble1/whatsapp-server-template
 ```
 2. Install the packages
 ```
